@@ -44,3 +44,8 @@ All queries are labelled, commented, and written with readability in mind.
 ## Running the Queries
 
 To execute the queries in MySQL Workbench or CLI:
+
+## Contact
+
+Harshit Mohan  
+LinkedIn: https://www.linkedin.com/in/harshit-mohan-7ab027256/
