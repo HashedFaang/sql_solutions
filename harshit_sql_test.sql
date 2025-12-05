@@ -2,7 +2,7 @@
    SQL Assessment – Solutions
    Author: Harshit Mohan(BTECH/10588/22)
    College: Birla Institute of Technology, Mesra
-   Note: All queries are written for MySQL 8
+   Note: All queries are written for MySQL 8.4.0
 */
 
 /*
